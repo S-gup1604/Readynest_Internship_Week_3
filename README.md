@@ -147,6 +147,3 @@ The dashboard consists of **4 interactive pages**.
 - Develop Business Opportunity Score.
 - Automate data refresh.
 - Expand analysis to multiple cities.
-
-
-# 📂 Repository Structure
